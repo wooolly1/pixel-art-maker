@@ -1,0 +1,10 @@
+{
+  "$schema": "https://code.claude.com/schemas/launch.json",
+  "preview": {
+    "command": "npm run dev",
+    "cwd": ".",
+    "port": 3000,
+    "url": "http://localhost:3000",
+    "readyPattern": "Ready in"
+  }
+}
