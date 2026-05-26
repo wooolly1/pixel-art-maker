@@ -1,10 +1,10 @@
 {
   "$schema": "https://code.claude.com/schemas/launch.json",
   "preview": {
-    "command": "npm run dev",
+    "command": "npm run dev -- -p 8080",
     "cwd": ".",
-    "port": 3000,
-    "url": "http://localhost:3000",
+    "port": 8080,
+    "url": "http://localhost:8080",
     "readyPattern": "Ready in"
   }
 }
